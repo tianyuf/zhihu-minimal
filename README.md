@@ -10,4 +10,4 @@ Zhihu Navbar CSS for Stylish
 `body { font-family: "Helvetica Neue", "Source Han Sans SC", sans-serif; };`
 
 #Preview
-![Preview](https://raw.githubusercontent.com/tianyuf/zhihu-minimal/master/preview.png)
+![Preview](https://raw.githubusercontent.com/tianyuf/zhihu-minimal/master/preview.png?token=AEBSYKoiHdH79ocryZCq49WDi4bmbRdnks5WrbszwA%3D%3D)
