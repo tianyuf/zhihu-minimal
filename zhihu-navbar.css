@@ -117,3 +117,11 @@ li.zu-top-nav-li.current {
 .zu-top-nav, .zu-top-search {
     float: right;
 }
+.topnav-noauth a {
+    color: #0e78e7;
+    text-shadow: none;
+}
+.topnav-noauth a:hover {
+    color: #259;
+    text-shadow: none;
+}
