@@ -1,13 +1,12 @@
-:root {
-    --Helvetica: "Helvetica Neue", "Source Han Sans SC", sans-serif;
-    }
+@-moz-document domain("zhihu.com") {
+
 body {
-    font-family: var(--Helvetica);
+    font-family: "SF UI Text", "BlinkMacSystemFont", "Helvetica Neue", "Source Han Sans SC", "Segoe UI", "Roboto", "Microsoft Yahei", sans-serif;
 }
 .zu-top {
     background: white;
     border-top: 3px solid #086ed5;
-    box-shadow: none;
+    box-shadow: 0 5px 2px -2px rgba(200,200,200,0.2);
     border-bottom: none;
 }
 .zu-top-link-logo {
@@ -23,7 +22,6 @@ li.zu-top-nav-li.current {
 .zu-top-nav-li, .zu-top-nav-link, .zu-top-nav-link:visited {
     color: #0e78e7;
     text-shadow: none;
-    font-size: 13px;
 }
 .zu-top-nav-link:hover {
     color: #259;
@@ -124,4 +122,5 @@ li.zu-top-nav-li.current {
 .topnav-noauth a:hover {
     color: #259;
     text-shadow: none;
+}
 }
