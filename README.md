@@ -1,4 +1,5 @@
 # zhihu-minimal
+![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-666%20%E8%B5%9E-007fff.svg)
 Zhihu Navbar CSS for Stylish
 
 # Guide
